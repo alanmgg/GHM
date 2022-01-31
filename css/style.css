@@ -1,0 +1,19 @@
+body {
+
+    background-color:white;
+    z-index: -1;
+
+
+}
+
+.container{
+    color: black;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+   
+}
+
+.CalendarioWeb{
+    font-size: 20px;
+}
