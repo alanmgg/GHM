@@ -1,11 +1,16 @@
-# Grupo Hospitalario de México
-Proyecto escolar que tenía como objetivo hacer un sistema de gestión de pacientes con Covid-19, en la ayuda de contra restar la enfermedad.
+# <a href="https://alanmgg.github.io/analogclock/" target="_blank">Grupo Hospitalario de México</a>
 
-![GHM 01](https://raw.githubusercontent.com/alanmgg/ghm/main/img-md/01.jpg)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/alanmgg/ghm)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://alanmgg.github.io/ghm/)
+[![Author](https://img.shields.io/badge/Author-Alan%20Francisco%20Mora-blue.svg)](https://github.com/alanmgg)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-23%20March%202022-yellow.svg)](https://github.com/alanmgg/ghm/commits/main)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alanmgg)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alanmgg/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Alan.Bananas.0)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alanmg._/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AlanVlogz)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alanmgg.github.io/)  
+<p align="justify">Proyecto escolar que tenía como objetivo hacer un sistema de gestión de pacientes con Covid-19, en la ayuda de contra restar la enfermedad.</p>
+
+<p align="center">
+  <kbd>
+    <img src="GHM.gif"></img>
+  </kbd>
+</p>
+
+Contácteme en alanfmorag@gmail.com si tiene comentarios o ideas para el sitio web. ¡Deja un ⭐ si te gusta!
