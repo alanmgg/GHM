@@ -9,7 +9,7 @@
 
 <p align="center">
   <kbd>
-    <img src="GHM.gif"></img>
+    <img src="ghm.gif"></img>
   </kbd>
 </p>
 
