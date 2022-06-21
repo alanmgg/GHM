@@ -1,11 +1,22 @@
-# <a href="https://github.com/alanmgg/ghm/" target="_blank">Grupo Hospitalario de México</a>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h1 align="center">Grupo Hospitalario de México ✨</h1>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/alanmgg/ghm)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://alanmgg.github.io/ghm/)
-[![Author](https://img.shields.io/badge/Author-Alan%20Francisco%20Mora-blue.svg)](https://github.com/alanmgg)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-20%20June%202022-yellow.svg)](https://github.com/alanmgg/ghm/commits/main)
+  <p align="center">
+    Proyecto escolar que tenía como objetivo hacer un sistema de gestión de pacientes con Covid-19, en la ayuda de contra restar la enfermedad. URL / Demo: 
+    <a href="https://alanmgg.github.io/ghm/">alanmgg.github.io/ghm/</a>
+    <br />
+    <br />
+    <a href="https://alanmg.vercel.app/">Más sobre mi</a>
+  </p>
+</p>
 
-<p align="justify">Proyecto escolar que tenía como objetivo hacer un sistema de gestión de pacientes con Covid-19, en la ayuda de contra restar la enfermedad.</p>
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg?style=for-the-badge)](https://github.com/alanmgg/ghm)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green?style=for-the-badge)](https://alanmgg.github.io/ghm/)
+[![Author](https://img.shields.io/badge/Author-Alan%20Francisco%20Mora%20G-blue.svg?style=for-the-badge)](https://github.com/alanmgg)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-21%20Jun%202022-yellow.svg?style=for-the-badge)](https://github.com/alanmgg/ghm/commits/main)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alanmgggg?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/alanmgggg)
 
 <p align="center">
   <kbd>
